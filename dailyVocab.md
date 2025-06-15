@@ -20,7 +20,7 @@
 
 - 活動
   - かつどう
-  - activity 
+  - activity
 
 - たいてい
   - mostly, almost
@@ -48,21 +48,7 @@
 担当者
 連絡先
 
-
-
-
 ---
 
-## 📅 2025-06-09
+## 📅 2025-06-14
 
-- **単語**: 参加  
-  - **よみ (Reading)**: さんか  
-  - **English Meaning**: participation
-
-- **単語**: 練習  
-  - **よみ (Reading)**: れんしゅう  
-  - **English Meaning**: practice
-
-- **単語**: 約束  
-  - **よみ (Reading)**: やくそく  
-  - **English Meaning**: promise / appointment
